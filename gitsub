@@ -1,6 +1,5 @@
 Subtraction 
 #!/bin/bash
-
 # This script is used to subtract two numbers and print the result
 X=15
 Y=5
@@ -11,19 +10,10 @@ echo "The result of subtracting $Y from $X is: $Z"
 X=15          
 Y=2       
 Z=$((X - Y))
-# echo "The result of subtracting $Y from $X is: $Z"            
-
-
+# echo "The result of subtracting $Y from $X is: $Z"    
+echo "The result of subtracting $Y from $X is: $Z"
+        
 # This script is used to subtract two numbers and print the result
 X=19  
 Y=4
 Z=$((X - Y))
-# echo "The result of subtracting $Y from $X is: $Z"    
-# This script is used to subtract two numbers and print the resul
-
-
-X=30
-Y=10        
-Z=$((X - Y))
-
-
