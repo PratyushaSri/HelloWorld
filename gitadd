@@ -1,17 +1,13 @@
-git Addition
 #!/bin/bash
-# This script is used to add two numbers and print the result           
+# This script is used to add two numbers and print the result 
 X=10
 Y=20    
 Z=$((X + Y))
 echo "The result of adding $X and $Y is: $Z" 
-
 # This script is used to add two numbers and print the result
 X=7
-
 Y=3
 Z=$((X + Y))        
-
-
+      
 
 
