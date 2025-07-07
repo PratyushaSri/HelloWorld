@@ -1,0 +1,7 @@
+Multiplecation
+#!/bin/bash
+# This script is used to multiply two numbers and print the result
+X=5
+Y=10
+Z=$((X * Y))
+echo "The result of multiplying $X and $Y is: $Z"
