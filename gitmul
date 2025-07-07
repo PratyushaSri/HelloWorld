@@ -5,3 +5,9 @@ X=5
 Y=10
 Z=$((X * Y))
 echo "The result of multiplying $X and $Y is: $Z"
+
+# This script is used to multiply two numbers and print the result
+X=3 
+Y=7
+Z=$((X * Y))
+# echo "The result of multiplying $X and $Y is: $Z"
