@@ -18,14 +18,9 @@ Y=4
 Z=$((X * Y))
 # echo "The result of multiplying $X and $Y is: $Z"
 echo "The result of multiplying $X and $Y is: $Z"
-
-<<<<<<< HEAD
-
-=======
 # This script is used to multiply two numbers and print the result
-X=6
+X=6 
 Y=9
 Z=$((X * Y))
-echo "The result of multiplying $X and $Y is: $Z"
-# This script is used to multiply two numbers and print the resul
->>>>>>>  from newbranchtwo
+# echo "The result of multiplying $X and $Y is: $Z"
+
