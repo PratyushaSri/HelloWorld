@@ -14,9 +14,3 @@ echo "The result of subtracting $Y from $X is: $Z"
 X=19  
 Y=4
 Z=$((X - Y))
-# echo "The result of subtracting $Y from $X is: $Z"
-echo "The result of subtracting $Y from $X is: $Z"
-X=30    
-Y=10
-Z=$((X - Y))
-# echo "The result of subtracting $Y from $X is: $Z"
